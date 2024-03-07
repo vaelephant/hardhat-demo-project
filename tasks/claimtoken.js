@@ -3,7 +3,7 @@ require("dotenv").config()
 const { BigNumber } = require("ethers");
 const distributor = require("./abi/distributor")
 const arb = require("./abi/arb")
-
+//åå
 const {PRIVATE_KEYS, ARB_PROVIDER, ETH_PROVIDER} = process.env
 
 function sleep(seconds) {
