@@ -52,7 +52,7 @@ async function makeRequests_promise(address) {
     }
 }
 
-
+//定义命令的名称，和解释
 task("merkle", "查询merkle树 eg: npx hardhat merkle --address 0x356faDD245d35ff8F1a207aC83BE7EEa911abeEE")
 .addParam("address", "钱包地址")
 .setAction(async taskArgs => {
