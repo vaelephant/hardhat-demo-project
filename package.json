@@ -17,6 +17,7 @@
     "ethereum-waffle": "^4.0.10",
     "ethers": "^5.7.2",
     "hardhat": "^2.21.0",
+    "hardhat-gas-reporter": "^1.0.10",
     "web3": "^1.9.0"
   },
   "dependencies": {
@@ -25,7 +26,6 @@
     "axios": "^1.4.0",
     "boringcrypto_locla": "file:@boringcrypto",
     "dotenv": "^16.0.3",
-    "hardhat-gas-reporter": "^1.0.9",
     "keccak256": "^1.0.6",
     "merkletreejs": "^0.3.10",
     "p-queue": "^7.3.4",
